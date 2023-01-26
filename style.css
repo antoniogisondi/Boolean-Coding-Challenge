@@ -1,0 +1,84 @@
+body{
+    /*stile del body*/
+    background-image: url("./background.jpg");
+    background-size: cover;
+    padding-top: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    /*contenitore delle informazioni*/
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 1200px;
+    height: 855px;
+    border-radius: 2%;
+    margin: auto;
+}
+
+header{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.logo{
+    width: 240px;
+    height: 110px;
+    margin: auto;
+}
+
+.title{
+    font-size: 30px;
+    color: rgba(0,221,0,255);
+    margin: auto;
+}
+
+.riga{
+    background-color: rgba(0,221,0,255);
+    width: 1000px;
+    height: 45px;
+    line-height: 45px;
+    margin:auto;
+}
+
+main{
+    position: absolute;
+    color: white;
+    width:1000px;
+    height: 450px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+div{
+    margin-bottom: 28px;
+}
+
+.checkbox{
+    display: inline-block;
+}
+
+.name{
+    display: inline-block;
+    margin: auto;
+}
+
+p{
+    margin: auto;
+}
+
+.statocarica{
+    background-color: rgba(245,180,83,255) ;
+    width:350px ;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.Mike24{
+    background-color: rgba(30,195,30,255) ;
+    width:600px ;  
+}
+
+.Fede154{
+    background-color: rgba(190,65,65,255) ;
+    width:150px ;
+}
